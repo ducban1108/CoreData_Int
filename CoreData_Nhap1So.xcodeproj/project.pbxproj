@@ -13,6 +13,7 @@
 		93E50C88225C939A001FCFB8 /* CoreData_Nhap1So.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 93E50C86225C939A001FCFB8 /* CoreData_Nhap1So.xcdatamodeld */; };
 		93E50C8A225C939C001FCFB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93E50C89225C939C001FCFB8 /* Assets.xcassets */; };
 		93E50C8D225C939C001FCFB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93E50C8B225C939C001FCFB8 /* LaunchScreen.storyboard */; };
+		93E50C95225C95AA001FCFB8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E50C94225C95AA001FCFB8 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		93E50C89225C939C001FCFB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93E50C8C225C939C001FCFB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93E50C8E225C939C001FCFB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93E50C94225C95AA001FCFB8 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				93E50C7F225C939A001FCFB8 /* AppDelegate.swift */,
 				93E50C81225C939A001FCFB8 /* ViewController.swift */,
 				93E50C83225C939A001FCFB8 /* Main.storyboard */,
+				93E50C94225C95AA001FCFB8 /* TableViewController.swift */,
 				93E50C89225C939C001FCFB8 /* Assets.xcassets */,
 				93E50C8B225C939C001FCFB8 /* LaunchScreen.storyboard */,
 				93E50C8E225C939C001FCFB8 /* Info.plist */,
@@ -141,6 +144,7 @@
 				93E50C82225C939A001FCFB8 /* ViewController.swift in Sources */,
 				93E50C80225C939A001FCFB8 /* AppDelegate.swift in Sources */,
 				93E50C88225C939A001FCFB8 /* CoreData_Nhap1So.xcdatamodeld in Sources */,
+				93E50C95225C95AA001FCFB8 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
